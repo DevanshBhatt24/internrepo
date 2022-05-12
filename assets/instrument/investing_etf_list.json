@@ -1,0 +1,594 @@
+[
+    {
+        "etf_name": "Axis Gold Exchange Traded Fund (AXGF)",
+        "backend_parameter": "axis-gold"
+    },
+    {
+        "etf_name": "Aditya Birla Sun Life Gold ETF (AITY)",
+        "backend_parameter": "birla-sun-life-gold"
+    },
+    {
+        "etf_name": "HDFC Gold Exchange Traded Fund (HDGO)",
+        "backend_parameter": "hdfc-gold"
+    },
+    {
+        "etf_name": "ICICI Prudential Gold ETF (IPEG)",
+        "backend_parameter": "icici-prudential-gold"
+    },
+    {
+        "etf_name": "IDBI Gold ETF (IDBE)",
+        "backend_parameter": "idbi-gold"
+    },
+    {
+        "etf_name": "Invesco India Gold ETF (INVS)",
+        "backend_parameter": "religare-gold"
+    },
+    {
+        "etf_name": "Invesco India Gold ETF (INVS)",
+        "backend_parameter": "religare-gold?cid=1010598"
+    },
+    {
+        "etf_name": "Kotak Gold Exchange Traded Scheme (KTGF)",
+        "backend_parameter": "kotak-gold"
+    },
+    {
+        "etf_name": "Nippon India Gold BeES (GBES)",
+        "backend_parameter": "goldman-sachs-gold"
+    },
+    {
+        "etf_name": "Quantum Gold Exchange Traded Scheme (QTGF)",
+        "backend_parameter": "quantum-gold"
+    },
+    {
+        "etf_name": "SBI ETF Gold (SBIG)",
+        "backend_parameter": "sbi-gold-fund"
+    },
+    {
+        "etf_name": "UTI Gold Exchange Traded Scheme (UTGF)",
+        "backend_parameter": "uti-gold"
+    },
+    {
+        "etf_name": "LIC MF ETF Nifty 100 (LICU)",
+        "backend_parameter": "lic-mf-nifty-100"
+    },
+    {
+        "etf_name": "Axis Healthcare ETF (AXIH)",
+        "backend_parameter": "axih"
+    },
+    {
+        "etf_name": "Axis NIFTY ETF (AISN)",
+        "backend_parameter": "axis-nifty-ns"
+    },
+    {
+        "etf_name": "BHARAT 22 ETF (ICPR)",
+        "backend_parameter": "bharat-22-etf-ns?cid=1055311"
+    },
+    {
+        "etf_name": "BHARAT 22 ETF (ICPR)",
+        "backend_parameter": "bharat-22-etf-ns"
+    },
+    {
+        "etf_name": "Aditya Birla Sun Life Nifty ETF (ADIY)",
+        "backend_parameter": "birla-sun-life-nifty"
+    },
+    {
+        "etf_name": "Edelweiss ETF - Nifty 50 (EETS)",
+        "backend_parameter": "edelweiss-nifty-ees"
+    },
+    {
+        "etf_name": "Edelweiss ETF - Nifty Bank (EDEW)",
+        "backend_parameter": "edelweiss-nifty-bank"
+    },
+    {
+        "etf_name": "Edelweiss ETF - Nifty 100 Quality 30 (EDEE)",
+        "backend_parameter": "edelweiss-nifty-quality-30-ns"
+    },
+    {
+        "etf_name": "Nippon India ETF Bank BeES (BBES)",
+        "backend_parameter": "goldman-sachs-banking-index"
+    },
+    {
+        "etf_name": "Nippon India ETF Shariah BeES (SBET)",
+        "backend_parameter": "goldman-sachs-s-p-cnx-nifty"
+    },
+    {
+        "etf_name": "CPSE ETF (GOMS)",
+        "backend_parameter": "goldman-sachs-asset-mgt"
+    },
+    {
+        "etf_name": "Nippon India ETF Hang Seng BeES (HNGS)",
+        "backend_parameter": "goldman-sachs-hang-seng"
+    },
+    {
+        "etf_name": "Nippon India ETF Infra BeES (IFRB)",
+        "backend_parameter": "goldman-sachs-infrastructure"
+    },
+    {
+        "etf_name": "Nippon India ETF Junior BeES (JBES)",
+        "backend_parameter": "goldman-sachs-junior?cid=1174557"
+    },
+    {
+        "etf_name": "Nippon India ETF Junior BeES (JBES)",
+        "backend_parameter": "goldman-sachs-junior"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty BeES (NBES)",
+        "backend_parameter": "goldman-sachs-nifty"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty BeES (NBES)",
+        "backend_parameter": "goldman-sachs-nifty?cid=1010601"
+    },
+    {
+        "etf_name": "Nippon India ETF PSU Bank BeES (PSUB)",
+        "backend_parameter": "goldman-sachs-psu-bank"
+    },
+    {
+        "etf_name": "HDFC Nifty 50 ETF (HDFN)",
+        "backend_parameter": "hdfc-nifty-growth-ns?cid=1010595"
+    },
+    {
+        "etf_name": "HDFC Nifty 50 ETF (HDFN)",
+        "backend_parameter": "hdfc-nifty-growth-ns"
+    },
+    {
+        "etf_name": "ICICI Prudential Bank ETF (ICIA)",
+        "backend_parameter": "icici-prudential-bank-ns"
+    },
+    {
+        "etf_name": "ICICI Prudential Healthcare ETF (IICU)",
+        "backend_parameter": "iicu"
+    },
+    {
+        "etf_name": "ICICI Prudential Healthcare ETF (IICU)",
+        "backend_parameter": "iicu?cid=1174561"
+    },
+    {
+        "etf_name": "ICICI Prudential Midcap Select ETF (ICIU)",
+        "backend_parameter": "icici-prudential-midcap-select-iwin"
+    },
+    {
+        "etf_name": "ICICI Prudential NV20 ETF (ICIN)",
+        "backend_parameter": "icici-prudential-nv20-iwin"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty ETF (ICNI)",
+        "backend_parameter": "icici-prudential-nifty?cid=1010597"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty ETF (ICNI)",
+        "backend_parameter": "icici-prudential-nifty"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty Low Vol 30 ETF (IICI)",
+        "backend_parameter": "iici"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty Low Vol 30 ETF (IICI)",
+        "backend_parameter": "iici?cid=1166909"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty Next 50 ETF (ICIT)",
+        "backend_parameter": "icici-prudential-nifty-next-50"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty 100 ETF (ICIC)",
+        "backend_parameter": "icici-prudential-cnx-100?cid=1010596"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty 100 ETF (ICIC)",
+        "backend_parameter": "icici-prudential-cnx-100"
+    },
+    {
+        "etf_name": "ICICI Prudential Private Banks ETF (ICIV)",
+        "backend_parameter": "icici-prudential-private-banks-ns?cid=1152296"
+    },
+    {
+        "etf_name": "ICICI Prudential Private Banks ETF (ICIV)",
+        "backend_parameter": "icici-prudential-private-banks-ns"
+    },
+    {
+        "etf_name": "ICICI Prudential S&P BSE 500 ETF (ICSP)",
+        "backend_parameter": "icici-prudential-sp-bse-500?cid=1080071"
+    },
+    {
+        "etf_name": "ICICI Prudential S&P BSE 500 ETF (ICSP)",
+        "backend_parameter": "icici-prudential-sp-bse-500"
+    },
+    {
+        "etf_name": "ICICI Prudential Sensex ETF (ICII)",
+        "backend_parameter": "icici-prudential-spice"
+    },
+    {
+        "etf_name": "IDFC Nifty ETF (IFCN)",
+        "backend_parameter": "idfc-nifty-ns"
+    },
+    {
+        "etf_name": "Indiabulls Nifty50 Exchange Traded Fund (IDTI)",
+        "backend_parameter": "indiabulls-nifty50"
+    },
+    {
+        "etf_name": "Invesco India Nifty ETF (INVO)",
+        "backend_parameter": "religare-asset-management-com"
+    },
+    {
+        "etf_name": "Kotak Banking ETF (KOTM)",
+        "backend_parameter": "kotak-banking"
+    },
+    {
+        "etf_name": "Kotak IT ETF (KOTT)",
+        "backend_parameter": "kott"
+    },
+    {
+        "etf_name": "Kotak NV 20 ETF (KONV)",
+        "backend_parameter": "kotak-nv-20"
+    },
+    {
+        "etf_name": "Kotak Nifty Exchange Traded Scheme (KOTK)",
+        "backend_parameter": "kotak-nifty?cid=1010599"
+    },
+    {
+        "etf_name": "Kotak Nifty Exchange Traded Scheme (KOTK)",
+        "backend_parameter": "kotak-nifty"
+    },
+    {
+        "etf_name": "Kotak PSU Bank Exchange Traded Scheme (KTPU)",
+        "backend_parameter": "kotak-psu-bank"
+    },
+    {
+        "etf_name": "LIC MF ETF Nifty 50 (LICO)",
+        "backend_parameter": "lic-nomura-mf-nifty-50"
+    },
+    {
+        "etf_name": "LIC MF ETF Sensex (LICM)",
+        "backend_parameter": "lic-mf-sensex"
+    },
+    {
+        "etf_name": "Mirae Asset Nifty 50 ETF (MAN50ETF) (MIRA)",
+        "backend_parameter": "mirae-asset-nifty-50"
+    },
+    {
+        "etf_name": "Motilal Oswal M50 ETF (M50)",
+        "backend_parameter": "most-shares-m50"
+    },
+    {
+        "etf_name": "Motilal Oswal NASDAQ 100 ETF (N100)",
+        "backend_parameter": "motilal-oswal-most-nasdaq-100"
+    },
+    {
+        "etf_name": "Motilal Oswal Midcap 100 ETF (M100)",
+        "backend_parameter": "most-shares-m100"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty IT (NIPD)",
+        "backend_parameter": "nipd"
+    },
+    {
+        "etf_name": "Nippon India Nifty Pharma ETF (NIPT)",
+        "backend_parameter": "nipt"
+    },
+    {
+        "etf_name": "Quantum Nifty Exchange Traded Scheme (QUAN)",
+        "backend_parameter": "quantum-index"
+    },
+    {
+        "etf_name": "Nippon India ETF Consumption (NCON)",
+        "backend_parameter": "r-shares-consumption"
+    },
+    {
+        "etf_name": "Nippon India ETF Dividend Opportunities (NDIV)",
+        "backend_parameter": "reliance-shares-dividend-opp"
+    },
+    {
+        "etf_name": "Nippon India ETF NV20 (NNET)",
+        "backend_parameter": "r-shares-nv-20"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty Midcap 150 (NTFM)",
+        "backend_parameter": "reliance-nifty-midcap-150"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty 100 (NIPO)",
+        "backend_parameter": "reliance-r-shares-cnx-100-fund?cid=1010600"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty 100 (NIPO)",
+        "backend_parameter": "reliance-r-shares-cnx-100-fund"
+    },
+    {
+        "etf_name": "Nippon India ETF Sensex Next 50 (NIPN)",
+        "backend_parameter": "reliance-sensex-next-50"
+    },
+    {
+        "etf_name": "SBI ETF Nifty 50 (SBFP)",
+        "backend_parameter": "sbi-nifty-50"
+    },
+    {
+        "etf_name": "SBI ETF Nifty Bank (SBIF)",
+        "backend_parameter": "sbi-banking"
+    },
+    {
+        "etf_name": "SBI ETF Nifty Next 50 (SBIN)",
+        "backend_parameter": "sbi-nifty-junior"
+    },
+    {
+        "etf_name": "SBI ETF Quality (SIET)",
+        "backend_parameter": "sbi-quality"
+    },
+    {
+        "etf_name": "SBI ETF Sensex Next 50 (SBIT)",
+        "backend_parameter": "sbi-sensex-next-50"
+    },
+    {
+        "etf_name": "Tata Nifty ETF (TATN)",
+        "backend_parameter": "tata-nifty-exchange-traded-fund"
+    },
+    {
+        "etf_name": "UTI Nifty ETF (UTIN)",
+        "backend_parameter": "uti-nifty"
+    },
+    {
+        "etf_name": "UTI Nifty ETF (UTIN)",
+        "backend_parameter": "uti-nifty?cid=1010602"
+    },
+    {
+        "etf_name": "UTI Nifty Next 50 ETF (UTII)",
+        "backend_parameter": "uti-nifty-next-50-ns?cid=1031769"
+    },
+    {
+        "etf_name": "UTI Nifty Next 50 ETF (UTII)",
+        "backend_parameter": "uti-nifty-next-50-ns"
+    },
+    {
+        "etf_name": "UTI S&P BSE Sensex Next 50 Exchange Traded Fund (UTIP)",
+        "backend_parameter": "uti-sp-bse-sensex-next-50"
+    },
+    {
+        "etf_name": "UTI Sensex ETF (UTIS)",
+        "backend_parameter": "uti-sensex"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2023 Growth (BARB)",
+        "backend_parameter": "barb"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2023 Growth (BARB)",
+        "backend_parameter": "barb?cid=1161224"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2025 Growth (BARF)",
+        "backend_parameter": "barf"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2025 Growth (BARF)",
+        "backend_parameter": "barf?cid=1167237"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2030 Growth (BHAB)",
+        "backend_parameter": "bhab?cid=1159106"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2030 Growth (BHAB)",
+        "backend_parameter": "bhab"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2031 Growth (BARE)",
+        "backend_parameter": "bare?cid=1167236"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2031 Growth (BARE)",
+        "backend_parameter": "bare"
+    },
+    {
+        "etf_name": "Nippon India ETF Liquid BeES (LBES)",
+        "backend_parameter": "goldman-sachs-liquid"
+    },
+    {
+        "etf_name": "LIC MF G-SEC Long Term Exchange Trade Fund (LICN)",
+        "backend_parameter": "lic-nomura-mf-g-sec-long-term"
+    },
+    {
+        "etf_name": "Nippon India ETF Long Term Gilt (NTFL)",
+        "backend_parameter": "ntfl"
+    },
+    {
+        "etf_name": "LIC MF ETF Nifty 100 (LICU)",
+        "backend_parameter": "lic-mf-nifty-100"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2023 Growth (BARB)",
+        "backend_parameter": "barb?cid=1161224"
+    },
+    {
+        "etf_name": "BHARAT Bond ETF April 2030 Growth (BHAB)",
+        "backend_parameter": "bhab?cid=1159106"
+    },
+    {
+        "etf_name": "Aditya Birla Sun Life Gold ETF (AITY)",
+        "backend_parameter": "birla-sun-life-gold"
+    },
+    {
+        "etf_name": "Aditya Birla Sun Life Nifty ETF (ADIY)",
+        "backend_parameter": "birla-sun-life-nifty"
+    },
+    {
+        "etf_name": "Edelweiss ETF - Nifty Bank (EDEW)",
+        "backend_parameter": "edelweiss-nifty-bank"
+    },
+    {
+        "etf_name": "Edelweiss ETF - Nifty 100 Quality 30 (EDEE)",
+        "backend_parameter": "edelweiss-nifty-quality-30-ns"
+    },
+    {
+        "etf_name": "Nippon India ETF Bank BeES (BBES)",
+        "backend_parameter": "goldman-sachs-banking-index"
+    },
+    {
+        "etf_name": "Nippon India ETF Shariah BeES (SBET)",
+        "backend_parameter": "goldman-sachs-s-p-cnx-nifty"
+    },
+    {
+        "etf_name": "CPSE ETF (GOMS)",
+        "backend_parameter": "goldman-sachs-asset-mgt"
+    },
+    {
+        "etf_name": "Nippon India ETF Hang Seng BeES (HNGS)",
+        "backend_parameter": "goldman-sachs-hang-seng"
+    },
+    {
+        "etf_name": "Nippon India ETF Infra BeES (IFRB)",
+        "backend_parameter": "goldman-sachs-infrastructure"
+    },
+    {
+        "etf_name": "Nippon India ETF Junior BeES (JBES)",
+        "backend_parameter": "goldman-sachs-junior?cid=1174557"
+    },
+    {
+        "etf_name": "Nippon India ETF Junior BeES (JBES)",
+        "backend_parameter": "goldman-sachs-junior"
+    },
+    {
+        "etf_name": "Nippon India ETF Liquid BeES (LBES)",
+        "backend_parameter": "goldman-sachs-liquid"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty BeES (NBES)",
+        "backend_parameter": "goldman-sachs-nifty?cid=1010601"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty BeES (NBES)",
+        "backend_parameter": "goldman-sachs-nifty"
+    },
+    {
+        "etf_name": "Nippon India ETF PSU Bank BeES (PSUB)",
+        "backend_parameter": "goldman-sachs-psu-bank"
+    },
+    {
+        "etf_name": "HDFC Nifty 50 ETF (HDFN)",
+        "backend_parameter": "hdfc-nifty-growth-ns?cid=1010595"
+    },
+    {
+        "etf_name": "ICICI Prudential Bank ETF (ICIA)",
+        "backend_parameter": "icici-prudential-bank-ns"
+    },
+    {
+        "etf_name": "ICICI Prudential Midcap Select ETF (ICIU)",
+        "backend_parameter": "icici-prudential-midcap-select-iwin"
+    },
+    {
+        "etf_name": "ICICI Prudential NV20 ETF (ICIN)",
+        "backend_parameter": "icici-prudential-nv20-iwin"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty ETF (ICNI)",
+        "backend_parameter": "icici-prudential-nifty?cid=1010597"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty ETF (ICNI)",
+        "backend_parameter": "icici-prudential-nifty"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty 100 ETF (ICIC)",
+        "backend_parameter": "icici-prudential-cnx-100"
+    },
+    {
+        "etf_name": "ICICI Prudential Nifty 100 ETF (ICIC)",
+        "backend_parameter": "icici-prudential-cnx-100?cid=1010596"
+    },
+    {
+        "etf_name": "ICICI Prudential Private Banks ETF (ICIV)",
+        "backend_parameter": "icici-prudential-private-banks-ns?cid=1152296"
+    },
+    {
+        "etf_name": "ICICI Prudential Private Banks ETF (ICIV)",
+        "backend_parameter": "icici-prudential-private-banks-ns"
+    },
+    {
+        "etf_name": "ICICI Prudential Sensex ETF (ICII)",
+        "backend_parameter": "icici-prudential-spice"
+    },
+    {
+        "etf_name": "IDBI Gold ETF (IDBE)",
+        "backend_parameter": "idbi-gold"
+    },
+    {
+        "etf_name": "Indiabulls Nifty50 Exchange Traded Fund (IDTI)",
+        "backend_parameter": "indiabulls-nifty50"
+    },
+    {
+        "etf_name": "Invesco India Gold ETF (INVS)",
+        "backend_parameter": "religare-gold?cid=1010598"
+    },
+    {
+        "etf_name": "Invesco India Nifty ETF (INVO)",
+        "backend_parameter": "religare-asset-management-com"
+    },
+    {
+        "etf_name": "Kotak PSU Bank Exchange Traded Scheme (KTPU)",
+        "backend_parameter": "kotak-psu-bank"
+    },
+    {
+        "etf_name": "LIC MF ETF Sensex (LICM)",
+        "backend_parameter": "lic-mf-sensex"
+    },
+    {
+        "etf_name": "Motilal Oswal M50 ETF (M50)",
+        "backend_parameter": "most-shares-m50"
+    },
+    {
+        "etf_name": "Motilal Oswal Midcap 100 ETF (M100)",
+        "backend_parameter": "most-shares-m100"
+    },
+    {
+        "etf_name": "Nippon India Gold BeES (GBES)",
+        "backend_parameter": "goldman-sachs-gold"
+    },
+    {
+        "etf_name": "Quantum Nifty Exchange Traded Scheme (QUAN)",
+        "backend_parameter": "quantum-index"
+    },
+    {
+        "etf_name": "Quantum Gold Exchange Traded Scheme (QTGF)",
+        "backend_parameter": "quantum-gold"
+    },
+    {
+        "etf_name": "Nippon India ETF Consumption (NCON)",
+        "backend_parameter": "r-shares-consumption"
+    },
+    {
+        "etf_name": "Nippon India ETF Dividend Opportunities (NDIV)",
+        "backend_parameter": "reliance-shares-dividend-opp"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty Midcap 150 (NTFM)",
+        "backend_parameter": "reliance-nifty-midcap-150"
+    },
+    {
+        "etf_name": "Nippon India ETF Nifty 100 (NIPO)",
+        "backend_parameter": "reliance-r-shares-cnx-100-fund"
+    },
+    {
+        "etf_name": "Nippon India ETF Sensex Next 50 (NIPN)",
+        "backend_parameter": "reliance-sensex-next-50"
+    },
+    {
+        "etf_name": "SBI ETF Gold (SBIG)",
+        "backend_parameter": "sbi-gold-fund"
+    },
+    {
+        "etf_name": "SBI ETF Quality (SIET)",
+        "backend_parameter": "sbi-quality"
+    },
+    {
+        "etf_name": "Tata Nifty ETF (TATN)",
+        "backend_parameter": "tata-nifty-exchange-traded-fund"
+    },
+    {
+        "etf_name": "UTI S&P BSE Sensex Next 50 Exchange Traded Fund (UTIP)",
+        "backend_parameter": "uti-sp-bse-sensex-next-50"
+    },
+    {
+        "etf_name": "UTI Sensex ETF (UTIS)",
+        "backend_parameter": "uti-sensex"
+    }
+]

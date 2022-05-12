@@ -1,0 +1,1310 @@
+[
+  {
+    "INDICE_NAME": "SENSEX"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Smallcap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Midcap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE SmallCap Select Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE MidCap Select Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE LargeCap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE AllCap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 100"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 200"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 500"
+  },
+  {
+    "INDICE_NAME": "S&P BSE BANKEX"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Auto"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Basic Materials"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Capital Goods"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Consumer Discretionary Goods & Services"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Consumer Durables"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Energy"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Finance"
+  },
+  {
+    "INDICE_NAME": "S&P BSE FMCG"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Healthcare"
+  },
+  {
+    "INDICE_NAME": "S&P BSE India Mfg"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Industrials"
+  },
+  {
+    "INDICE_NAME": "S&P BSE IPO"
+  },
+  {
+    "INDICE_NAME": "S&P BSE IT"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Metals"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Oil and Gas"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Power"
+  },
+  {
+    "INDICE_NAME": "S&P BSE PSU"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Realty"
+  },
+  {
+    "INDICE_NAME": "S&P BSE TECk"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Telecom"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Utilities"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Dividend Stability Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Enhanced Value Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Low Volatility Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Momentum Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE Quality Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE SENSEX 50 Index"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 150 MidCap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 250 SmallCap"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 250 LargeMid"
+  },
+  {
+    "INDICE_NAME": "S&P BSE 400 MidSmall"
+  },
+  {
+    "INDICE_NAME": "NIFTY 50"
+  },
+  {
+    "INDICE_NAME": "NIFTY NEXT 50"
+  },
+  {
+    "INDICE_NAME": "NIFTY Midcap 100"
+  },
+  {
+    "INDICE_NAME": "NIFTY MIDCAP 50"
+  },
+  {
+    "INDICE_NAME": "NIFTY 100"
+  },
+  {
+    "INDICE_NAME": "NIFTY 500"
+  },
+  {
+    "INDICE_NAME": "NIFTY AUTO"
+  },
+  {
+    "INDICE_NAME": "NIFTY BANK"
+  },
+  {
+    "INDICE_NAME": "NIFTY ENERGY"
+  },
+  {
+    "INDICE_NAME": "NIFTY FMCG"
+  },
+  {
+    "INDICE_NAME": "NIFTY INFRA"
+  },
+  {
+    "INDICE_NAME": "NIFTY IT"
+  },
+  {
+    "INDICE_NAME": "NIFTY MEDIA"
+  },
+  {
+    "INDICE_NAME": "NIFTY METAL"
+  },
+  {
+    "INDICE_NAME": "NIFTY MNC"
+  },
+  {
+    "INDICE_NAME": "NIFTY PHARMA"
+  },
+  {
+    "INDICE_NAME": "NIFTY PSE"
+  },
+  {
+    "INDICE_NAME": "NIFTY PSU BANK"
+  },
+  {
+    "INDICE_NAME": "NIFTY REALTY"
+  },
+  {
+    "INDICE_NAME": "NIFTY SERV SECTOR"
+  },
+  {
+    "INDICE_NAME": "INDIA VIX"
+  },
+  {
+    "INDICE_NAME": "SX40"
+  },
+  {
+    "INDICE_NAME": "NIFTY GROWSECT 15"
+  },
+  {
+    "INDICE_NAME": "NIFTY50 VALUE 20"
+  },
+  {
+    "INDICE_NAME": "NIFTY DIV OPPS 50"
+  },
+  {
+    "INDICE_NAME": "NIFTY MID LIQ 15"
+  },
+  {
+    "INDICE_NAME": "NIFTY100 QUALITY 30"
+  },
+  {
+    "INDICE_NAME": "NIFTY Smallcap 100"
+  },
+  {
+    "INDICE_NAME": "NIFTY COMMODITIES"
+  },
+  {
+    "INDICE_NAME": "NIFTY CONSUMPTION"
+  },
+  {
+    "INDICE_NAME": "NIFTY FIN SERVICE"
+  },
+  {
+    "INDICE_NAME": "NIFTY PVT BANK"
+  },
+  {
+    "INDICE_NAME": "NIFTY MIDCAP 150"
+  },
+  {
+    "INDICE_NAME": "NIFTY MIDSML 400"
+  },
+  {
+    "INDICE_NAME": "NIFTY Smallcap 250"
+  },
+  {
+    "INDICE_NAME": "NIFTY Smallcap 50"
+  },
+  {
+    "INDICE_NAME": "S&P Merval"
+  },
+  {
+    "INDICE_NAME": "S&P/BYMA Argentina General"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX 200"
+  },
+  {
+    "INDICE_NAME": "ASX All Ordinaries"
+  },
+  {
+    "INDICE_NAME": "ASX Small Ordinaries"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX 100"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX 20"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX 300"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX 50"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX All Australian 200"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX All Australian 50"
+  },
+  {
+    "INDICE_NAME": "S&P/ASX Midcap 50"
+  },
+  {
+    "INDICE_NAME": "ATX"
+  },
+  {
+    "INDICE_NAME": "ATX 5"
+  },
+  {
+    "INDICE_NAME": "ATX Prime"
+  },
+  {
+    "INDICE_NAME": "FTSE Austria"
+  },
+  {
+    "INDICE_NAME": "Immobilien ATX EUR"
+  },
+  {
+    "INDICE_NAME": "New Europe Blue Chip EUR"
+  },
+  {
+    "INDICE_NAME": "Bahrain All Share"
+  },
+  {
+    "INDICE_NAME": "DSE 30"
+  },
+  {
+    "INDICE_NAME": "DSE Broad"
+  },
+  {
+    "INDICE_NAME": "BEL 20"
+  },
+  {
+    "INDICE_NAME": "BEL 20 GR"
+  },
+  {
+    "INDICE_NAME": "BEL 20 Net Return"
+  },
+  {
+    "INDICE_NAME": "BEL Mid"
+  },
+  {
+    "INDICE_NAME": "BEL Small"
+  },
+  {
+    "INDICE_NAME": "BIRS"
+  },
+  {
+    "INDICE_NAME": "Sarajevo 10"
+  },
+  {
+    "INDICE_NAME": "Sarajevo 30"
+  },
+  {
+    "INDICE_NAME": "BSE Domestic Company"
+  },
+  {
+    "INDICE_NAME": "BSE Foreign Company"
+  },
+  {
+    "INDICE_NAME": "Bovespa"
+  },
+  {
+    "INDICE_NAME": "Brazil 50"
+  },
+  {
+    "INDICE_NAME": "Tag Along"
+  },
+  {
+    "INDICE_NAME": "Brazil broad-Based"
+  },
+  {
+    "INDICE_NAME": "Brazil Index"
+  },
+  {
+    "INDICE_NAME": "Mid-Large Cap Index"
+  },
+  {
+    "INDICE_NAME": "Small Cap Index"
+  },
+  {
+    "INDICE_NAME": "BSE SOFIX"
+  },
+  {
+    "INDICE_NAME": "BGBX40"
+  },
+  {
+    "INDICE_NAME": "BGTR30"
+  },
+  {
+    "INDICE_NAME": "S&P/TSX"
+  },
+  {
+    "INDICE_NAME": "S&P/TSX 60"
+  },
+  {
+    "INDICE_NAME": "S&P/TSX MidCap"
+  },
+  {
+    "INDICE_NAME": "S&P/TSX Small Cap"
+  },
+  {
+    "INDICE_NAME": "S&P/TSX Venture"
+  },
+  {
+    "INDICE_NAME": "S&P CLX IPSA"
+  },
+  {
+    "INDICE_NAME": "Inter 10"
+  },
+  {
+    "INDICE_NAME": "S&P CLX IGPA"
+  },
+  {
+    "INDICE_NAME": "Shanghai"
+  },
+  {
+    "INDICE_NAME": "SZSE Component"
+  },
+  {
+    "INDICE_NAME": "China A50"
+  },
+  {
+    "INDICE_NAME": "S&P/CITIC300"
+  },
+  {
+    "INDICE_NAME": "S&P/CITIC50"
+  },
+  {
+    "INDICE_NAME": "Shanghai SE A Share"
+  },
+  {
+    "INDICE_NAME": "SSE 100"
+  },
+  {
+    "INDICE_NAME": "COLCAP"
+  },
+  {
+    "INDICE_NAME": "COLEQTY"
+  },
+  {
+    "INDICE_NAME": "FTSE Colombia"
+  },
+  {
+    "INDICE_NAME": "Costa Rica Indice Accionario"
+  },
+  {
+    "INDICE_NAME": "BRVM 10"
+  },
+  {
+    "INDICE_NAME": "BRVM Composite"
+  },
+  {
+    "INDICE_NAME": "CROBEX"
+  },
+  {
+    "INDICE_NAME": "CROBEX10"
+  },
+  {
+    "INDICE_NAME": "Cyprus Main Market"
+  },
+  {
+    "INDICE_NAME": "Cyprus Alternative Market"
+  },
+  {
+    "INDICE_NAME": "Cyprus Main and Parallel Market"
+  },
+  {
+    "INDICE_NAME": "PX"
+  },
+  {
+    "INDICE_NAME": "FTSE Czech Republic"
+  },
+  {
+    "INDICE_NAME": "OETOB Czech Traded (CZK)"
+  },
+  {
+    "INDICE_NAME": "OETOB Czech Traded (EUR)"
+  },
+  {
+    "INDICE_NAME": "OETOB Czech Traded (USD)"
+  },
+  {
+    "INDICE_NAME": "PX-GLOB"
+  },
+  {
+    "INDICE_NAME": "OMXC20"
+  },
+  {
+    "INDICE_NAME": "OMXC25"
+  },
+  {
+    "INDICE_NAME": "OMX Copenhagen All shares"
+  },
+  {
+    "INDICE_NAME": "OMX Copenhagen Benchmark"
+  },
+  {
+    "INDICE_NAME": "OMX Copenhagen Mid Cap"
+  },
+  {
+    "INDICE_NAME": "OMX Copenhagen Small Cap"
+  },
+  {
+    "INDICE_NAME": "Guayaquil Select"
+  },
+  {
+    "INDICE_NAME": "Ecuador General Adj"
+  },
+  {
+    "INDICE_NAME": "EGX 30"
+  },
+  {
+    "INDICE_NAME": "EGX 70"
+  },
+  {
+    "INDICE_NAME": "S&P/ESG Egypt"
+  },
+  {
+    "INDICE_NAME": "EGX 100"
+  },
+  {
+    "INDICE_NAME": "EGX 30 Capped"
+  },
+  {
+    "INDICE_NAME": "EGX 70"
+  },
+  {
+    "INDICE_NAME": "DJ Estonia Total Market (EUR)"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki 25"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki 25 Growth"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki Benchmark"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki Cap PI"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki Mid Cap"
+  },
+  {
+    "INDICE_NAME": "OMX Helsinki Small Cap PI"
+  },
+  {
+    "INDICE_NAME": "CAC 40"
+  },
+  {
+    "INDICE_NAME": "CAC All Shares"
+  },
+  {
+    "INDICE_NAME": "CAC All-Tradable"
+  },
+  {
+    "INDICE_NAME": "CAC Large 60"
+  },
+  {
+    "INDICE_NAME": "CAC Mid & Small"
+  },
+  {
+    "INDICE_NAME": "CAC Mid 60"
+  },
+  {
+    "INDICE_NAME": "CAC Next 20"
+  },
+  {
+    "INDICE_NAME": "CAC Small"
+  },
+  {
+    "INDICE_NAME": "EuroNext 100"
+  },
+  {
+    "INDICE_NAME": "Next 150"
+  },
+  {
+    "INDICE_NAME": "SBF 120"
+  },
+  {
+    "INDICE_NAME": "DAX"
+  },
+  {
+    "INDICE_NAME": "Euro Stoxx 50"
+  },
+  {
+    "INDICE_NAME": "Classic All Share"
+  },
+  {
+    "INDICE_NAME": "Midcap"
+  },
+  {
+    "INDICE_NAME": "Technology All Share"
+  },
+  {
+    "INDICE_NAME": "HDAX"
+  },
+  {
+    "INDICE_NAME": "Prime All Share"
+  },
+  {
+    "INDICE_NAME": "SDAX"
+  },
+  {
+    "INDICE_NAME": "TecDAX"
+  },
+  {
+    "INDICE_NAME": "XETRA DAX Price"
+  },
+  {
+    "INDICE_NAME": "Athens General Composite"
+  },
+  {
+    "INDICE_NAME": "FTSE/Athex 20"
+  },
+  {
+    "INDICE_NAME": "FTSE China 50"
+  },
+  {
+    "INDICE_NAME": "Hang Seng"
+  },
+  {
+    "INDICE_NAME": "FTSE CHI Hong Kong"
+  },
+  {
+    "INDICE_NAME": "FTSE EPRA/NAREIT Hong Kong"
+  },
+  {
+    "INDICE_NAME": "Hang Seng CCI"
+  },
+  {
+    "INDICE_NAME": "Hang Seng CEI"
+  },
+  {
+    "INDICE_NAME": "Budapest SE"
+  },
+  {
+    "INDICE_NAME": "BUMIX"
+  },
+  {
+    "INDICE_NAME": "FTSE Hungary"
+  },
+  {
+    "INDICE_NAME": "HTX (EUR)"
+  },
+  {
+    "INDICE_NAME": "HTX (HUF)"
+  },
+  {
+    "INDICE_NAME": "HTX (USD)"
+  },
+  {
+    "INDICE_NAME": "ICEX Main"
+  },
+  {
+    "INDICE_NAME": "ICEX All Share Total Return"
+  },
+  {
+    "INDICE_NAME": "OMX Iceland 6 PI ISK"
+  },
+  {
+    "INDICE_NAME": "OMX Iceland Mid Cap PI"
+  },
+  {
+    "INDICE_NAME": "OMX Iceland Small Cap PI"
+  },
+  {
+    "INDICE_NAME": "IDX Composite"
+  },
+  {
+    "INDICE_NAME": "FTSE Indonesia"
+  },
+  {
+    "INDICE_NAME": "IDX Kompas 100"
+  },
+  {
+    "INDICE_NAME": "IDX PEFINDO-25"
+  },
+  {
+    "INDICE_NAME": "IDX LQ45"
+  },
+  {
+    "INDICE_NAME": "ISX Main 60"
+  },
+  {
+    "INDICE_NAME": "ISEQ Overall"
+  },
+  {
+    "INDICE_NAME": "FTSE Ireland"
+  },
+  {
+    "INDICE_NAME": "ISEQ 20 Price"
+  },
+  {
+    "INDICE_NAME": "ISEQ General"
+  },
+  {
+    "INDICE_NAME": "ISEQ Small Capital"
+  },
+  {
+    "INDICE_NAME": "TA 35"
+  },
+  {
+    "INDICE_NAME": "TA 125"
+  },
+  {
+    "INDICE_NAME": "TA 60 SME"
+  },
+  {
+    "INDICE_NAME": "TA 90"
+  },
+  {
+    "INDICE_NAME": "TA Allshare"
+  },
+  {
+    "INDICE_NAME": "TA Growth"
+  },
+  {
+    "INDICE_NAME": "TASE VIX VTA35"
+  },
+  {
+    "INDICE_NAME": "FTSE Italia All Share"
+  },
+  {
+    "INDICE_NAME": "FTSE IT Mid Cap"
+  },
+  {
+    "INDICE_NAME": "FTSE IT Small Cap"
+  },
+  {
+    "INDICE_NAME": "FTSE MIB TR EUR"
+  },
+  {
+    "INDICE_NAME": "Italy 40"
+  },
+  {
+    "INDICE_NAME": "JSE Market"
+  },
+  {
+    "INDICE_NAME": "JSE All Jamaican Composite"
+  },
+  {
+    "INDICE_NAME": "Nikkei 225"
+  },
+  {
+    "INDICE_NAME": "JASDAQ"
+  },
+  {
+    "INDICE_NAME": "JASDAQ 20"
+  },
+  {
+    "INDICE_NAME": "JPX-Nikkei 400"
+  },
+  {
+    "INDICE_NAME": "Nikkei 1000"
+  },
+  {
+    "INDICE_NAME": "Nikkei 300"
+  },
+  {
+    "INDICE_NAME": "Nikkei 500"
+  },
+  {
+    "INDICE_NAME": "Nikkei JQ Average"
+  },
+  {
+    "INDICE_NAME": "Nikkei Volatility"
+  },
+  {
+    "INDICE_NAME": "TOPIX"
+  },
+  {
+    "INDICE_NAME": "Topix 100"
+  },
+  {
+    "INDICE_NAME": "Topix 1000"
+  },
+  {
+    "INDICE_NAME": "Topix 500"
+  },
+  {
+    "INDICE_NAME": "TOPIX Composite"
+  },
+  {
+    "INDICE_NAME": "Amman SE General"
+  },
+  {
+    "INDICE_NAME": "Amman SE AllShare"
+  },
+  {
+    "INDICE_NAME": "KASE"
+  },
+  {
+    "INDICE_NAME": "Kenya NSE 20"
+  },
+  {
+    "INDICE_NAME": "FTSE NSE Kenya 15"
+  },
+  {
+    "INDICE_NAME": "FTSE NSE Kenya 25"
+  },
+  {
+    "INDICE_NAME": "Nairobi All Share"
+  },
+  {
+    "INDICE_NAME": "DJ Latvia Total Market"
+  },
+  {
+    "INDICE_NAME": "BLOM Stock"
+  },
+  {
+    "INDICE_NAME": "BDL STOCK IX"
+  },
+  {
+    "INDICE_NAME": "Beirut Stock"
+  },
+  {
+    "INDICE_NAME": "DJ Lithuania Total Market (EUR)"
+  },
+  {
+    "INDICE_NAME": "KLCI"
+  },
+  {
+    "INDICE_NAME": "Malaysia ACE"
+  },
+  {
+    "INDICE_NAME": "FTSE BM Mid 70"
+  },
+  {
+    "INDICE_NAME": "Malaysia Top 100"
+  },
+  {
+    "INDICE_NAME": "FTSE Malaysia"
+  },
+  {
+    "INDICE_NAME": "MSE"
+  },
+  {
+    "INDICE_NAME": "Semdex"
+  },
+  {
+    "INDICE_NAME": "FTSE BIVA Real Time Price"
+  },
+  {
+    "INDICE_NAME": "S&P/BMV IPC"
+  },
+  {
+    "INDICE_NAME": "S&P/BMV INMEX"
+  },
+  {
+    "INDICE_NAME": "S&P/BMV IPC CompMx"
+  },
+  {
+    "INDICE_NAME": "MNE Top 20"
+  },
+  {
+    "INDICE_NAME": "MNSE 10"
+  },
+  {
+    "INDICE_NAME": "MONEX"
+  },
+  {
+    "INDICE_NAME": "Moroccan All Shares"
+  },
+  {
+    "INDICE_NAME": "FTSE CSE Morocco 15"
+  },
+  {
+    "INDICE_NAME": "FTSE CSE Morocco All-Liquid"
+  },
+  {
+    "INDICE_NAME": "MADEX"
+  },
+  {
+    "INDICE_NAME": "NSX"
+  },
+  {
+    "INDICE_NAME": "NSX Local"
+  },
+  {
+    "INDICE_NAME": "AEX"
+  },
+  {
+    "INDICE_NAME": "AEX All Share"
+  },
+  {
+    "INDICE_NAME": "AMS Small Cap"
+  },
+  {
+    "INDICE_NAME": "AMX"
+  },
+  {
+    "INDICE_NAME": "NZX 50"
+  },
+  {
+    "INDICE_NAME": "NZX MidCap"
+  },
+  {
+    "INDICE_NAME": "DJ New Zealand"
+  },
+  {
+    "INDICE_NAME": "DJ New Zealand (USD)"
+  },
+  {
+    "INDICE_NAME": "NZX All"
+  },
+  {
+    "INDICE_NAME": "NZX SmallCap"
+  },
+  {
+    "INDICE_NAME": "S&P/NZAX All Price"
+  },
+  {
+    "INDICE_NAME": "NSE 30"
+  },
+  {
+    "INDICE_NAME": "NSE All Share"
+  },
+  {
+    "INDICE_NAME": "OSE Benchmark"
+  },
+  {
+    "INDICE_NAME": "Oslo OBX"
+  },
+  {
+    "INDICE_NAME": "OBX Price"
+  },
+  {
+    "INDICE_NAME": "OMX Oslo 20"
+  },
+  {
+    "INDICE_NAME": "Oslo All Share"
+  },
+  {
+    "INDICE_NAME": "MSM 30"
+  },
+  {
+    "INDICE_NAME": "Karachi 100"
+  },
+  {
+    "INDICE_NAME": "KMI All Shares"
+  },
+  {
+    "INDICE_NAME": "FTSE Pakistan"
+  },
+  {
+    "INDICE_NAME": "Karachi 30"
+  },
+  {
+    "INDICE_NAME": "Karachi All Share"
+  },
+  {
+    "INDICE_NAME": "Karachi Meezan 30"
+  },
+  {
+    "INDICE_NAME": "Al-Quds"
+  },
+  {
+    "INDICE_NAME": "S&P Lima General"
+  },
+  {
+    "INDICE_NAME": "FTSE Peru"
+  },
+  {
+    "INDICE_NAME": "S&P Lima Corporate Gov"
+  },
+  {
+    "INDICE_NAME": "S&P Lima Select"
+  },
+  {
+    "INDICE_NAME": "S&P Peru Select"
+  },
+  {
+    "INDICE_NAME": "PSEi Composite"
+  },
+  {
+    "INDICE_NAME": "FTSE Philippines"
+  },
+  {
+    "INDICE_NAME": "PHS All Shares"
+  },
+  {
+    "INDICE_NAME": "WIG20"
+  },
+  {
+    "INDICE_NAME": "WIG30"
+  },
+  {
+    "INDICE_NAME": "mWIG40"
+  },
+  {
+    "INDICE_NAME": "sWIG80"
+  },
+  {
+    "INDICE_NAME": "WIG"
+  },
+  {
+    "INDICE_NAME": "PSI 20"
+  },
+  {
+    "INDICE_NAME": "PSI All Share GR"
+  },
+  {
+    "INDICE_NAME": "QE General"
+  },
+  {
+    "INDICE_NAME": "FTSE NASDAQ Qatar 10"
+  },
+  {
+    "INDICE_NAME": "QE All Shares"
+  },
+  {
+    "INDICE_NAME": "BET"
+  },
+  {
+    "INDICE_NAME": "Bucharest BET-XT"
+  },
+  {
+    "INDICE_NAME": "MOEX"
+  },
+  {
+    "INDICE_NAME": "RTSI"
+  },
+  {
+    "INDICE_NAME": "MOEX 10"
+  },
+  {
+    "INDICE_NAME": "MOEX Blue Chip"
+  },
+  {
+    "INDICE_NAME": "Russian VIX"
+  },
+  {
+    "INDICE_NAME": "Rwanda All Share"
+  },
+  {
+    "INDICE_NAME": "Rwanda Share"
+  },
+  {
+    "INDICE_NAME": "MSCI TADAWUL 30"
+  },
+  {
+    "INDICE_NAME": "Tadawul All Share"
+  },
+  {
+    "INDICE_NAME": "NOMU Parallel Market Capped"
+  },
+  {
+    "INDICE_NAME": "Belex 15"
+  },
+  {
+    "INDICE_NAME": "FTSE Singapore"
+  },
+  {
+    "INDICE_NAME": "MSCI Singapore"
+  },
+  {
+    "INDICE_NAME": "SAX"
+  },
+  {
+    "INDICE_NAME": "Blue-Chip SBITOP"
+  },
+  {
+    "INDICE_NAME": "South Africa Top 40"
+  },
+  {
+    "INDICE_NAME": "FTSE South Africa"
+  },
+  {
+    "INDICE_NAME": "KOSPI"
+  },
+  {
+    "INDICE_NAME": "KOSPI 50"
+  },
+  {
+    "INDICE_NAME": "FTSE Korea"
+  },
+  {
+    "INDICE_NAME": "KOSDAQ"
+  },
+  {
+    "INDICE_NAME": "KQ 100"
+  },
+  {
+    "INDICE_NAME": "KOSPI 100"
+  },
+  {
+    "INDICE_NAME": "KOSPI 200"
+  },
+  {
+    "INDICE_NAME": "KOSPI Large Sized"
+  },
+  {
+    "INDICE_NAME": "KOSPI Medium Sized"
+  },
+  {
+    "INDICE_NAME": "KOSPI Small Sized"
+  },
+  {
+    "INDICE_NAME": "KRX 100"
+  },
+  {
+    "INDICE_NAME": "IBEX 35"
+  },
+  {
+    "INDICE_NAME": "FTSE Latibex"
+  },
+  {
+    "INDICE_NAME": "General Madrid"
+  },
+  {
+    "INDICE_NAME": "IBEX Medium Cap"
+  },
+  {
+    "INDICE_NAME": "IBEX Small Cap"
+  },
+  {
+    "INDICE_NAME": "VIBEX"
+  },
+  {
+    "INDICE_NAME": "CSE All-Share"
+  },
+  {
+    "INDICE_NAME": "S&P Sri Lanka 20"
+  },
+  {
+    "INDICE_NAME": "OMXS30"
+  },
+  {
+    "INDICE_NAME": "OMX Nordic 40"
+  },
+  {
+    "INDICE_NAME": "OMX Stockholm"
+  },
+  {
+    "INDICE_NAME": "OMX Stockholm Benchmark"
+  },
+  {
+    "INDICE_NAME": "OMX Stockholm Mid Cap"
+  },
+  {
+    "INDICE_NAME": "OMX Stockholm Small Cap"
+  },
+  {
+    "INDICE_NAME": "SMI"
+  },
+  {
+    "INDICE_NAME": "FTSE Switzerland"
+  },
+  {
+    "INDICE_NAME": "Swiss All Share Cumulative Dividend"
+  },
+  {
+    "INDICE_NAME": "Swiss Mid Price"
+  },
+  {
+    "INDICE_NAME": "Taiwan Weighted"
+  },
+  {
+    "INDICE_NAME": "TPEx 50"
+  },
+  {
+    "INDICE_NAME": "MSCI Taiwan"
+  },
+  {
+    "INDICE_NAME": "TPEx"
+  },
+  {
+    "INDICE_NAME": "TSEC Taiwan 50"
+  },
+  {
+    "INDICE_NAME": "Tanzania All Share"
+  },
+  {
+    "INDICE_NAME": "SET"
+  },
+  {
+    "INDICE_NAME": "FTSE SET All-Share"
+  },
+  {
+    "INDICE_NAME": "FTSE SET Large Cap"
+  },
+  {
+    "INDICE_NAME": "FTSE SET Mid Cap"
+  },
+  {
+    "INDICE_NAME": "FTSE SET Mid Small Cap"
+  },
+  {
+    "INDICE_NAME": "FTSE SET Shariah"
+  },
+  {
+    "INDICE_NAME": "MAI"
+  },
+  {
+    "INDICE_NAME": "SET 100"
+  },
+  {
+    "INDICE_NAME": "SET 50"
+  },
+  {
+    "INDICE_NAME": "Tunindex"
+  },
+  {
+    "INDICE_NAME": "Tunindex20"
+  },
+  {
+    "INDICE_NAME": "BIST 100"
+  },
+  {
+    "INDICE_NAME": "BIST 100-30"
+  },
+  {
+    "INDICE_NAME": "BIST 30"
+  },
+  {
+    "INDICE_NAME": "BIST 50"
+  },
+  {
+    "INDICE_NAME": "BIST All Shares"
+  },
+  {
+    "INDICE_NAME": "BIST All-100"
+  },
+  {
+    "INDICE_NAME": "Uganda All Share"
+  },
+  {
+    "INDICE_NAME": "PFTS"
+  },
+  {
+    "INDICE_NAME": "ADX General"
+  },
+  {
+    "INDICE_NAME": "DFM General"
+  },
+  {
+    "INDICE_NAME": "FTSE 100"
+  },
+  {
+    "INDICE_NAME": "FTSE 250"
+  },
+  {
+    "INDICE_NAME": "FTSE 350"
+  },
+  {
+    "INDICE_NAME": "FTSE AIM 100"
+  },
+  {
+    "INDICE_NAME": "UK 100"
+  },
+  {
+    "INDICE_NAME": "Dow Jones"
+  },
+  {
+    "INDICE_NAME": "Nasdaq 100"
+  },
+  {
+    "INDICE_NAME": "Nasdaq"
+  },
+  {
+    "INDICE_NAME": "S&P 500"
+  },
+  {
+    "INDICE_NAME": "S&P 500 VIX"
+  },
+  {
+    "INDICE_NAME": "DJ Composite"
+  },
+  {
+    "INDICE_NAME": "DJ Transportation"
+  },
+  {
+    "INDICE_NAME": "DJ Utility"
+  },
+  {
+    "INDICE_NAME": "NYSE AMEX Composite"
+  },
+  {
+    "INDICE_NAME": "NYSE Composite"
+  },
+  {
+    "INDICE_NAME": "OTCM ADR"
+  },
+  {
+    "INDICE_NAME": "OTCM QX ADR 30"
+  },
+  {
+    "INDICE_NAME": "S&P 100"
+  },
+  {
+    "INDICE_NAME": "Small Cap 2000"
+  },
+  {
+    "INDICE_NAME": "Bursatil"
+  },
+  {
+    "INDICE_NAME": "Merinvest Composite"
+  },
+  {
+    "INDICE_NAME": "HNX 30"
+  },
+  {
+    "INDICE_NAME": "VN"
+  },
+  {
+    "INDICE_NAME": "VN 30"
+  },
+  {
+    "INDICE_NAME": "FTSE Vietnam"
+  },
+  {
+    "INDICE_NAME": "FTSE Vietnam All"
+  },
+  {
+    "INDICE_NAME": "HNX"
+  },
+  {
+    "INDICE_NAME": "VN100"
+  },
+  {
+    "INDICE_NAME": "LSE All Share"
+  },
+  {
+    "INDICE_NAME": "LSE EN"
+  },
+  {
+    "INDICE_NAME": "LSE Inv"
+  },
+  {
+    "INDICE_NAME": "Zimbabwe Industrial"
+  },
+  {
+    "INDICE_NAME": "Zimbabwe Mining"
+  }
+]

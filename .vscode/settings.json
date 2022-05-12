@@ -1,0 +1,19 @@
+{
+  "dart.sdkPath": "C:\\src\\flutter\\bin\\cache\\dart-sdk",
+  "git.ignoreLimitWarning": true,
+  "git.enabled": true,
+  "git.path": "C:\\git.exe",
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "liveServer.settings.port": 5501,
+  "[json]": {
+  
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "C_Cpp.default.forcedInclude": []
+}

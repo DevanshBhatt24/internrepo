@@ -1,0 +1,227 @@
+[
+  {
+    "Global Indices Name": "Dow Jones",
+    "Country Name": "United States",
+    "Country Code": "US"
+  },
+  {
+    "Global Indices Name": "S&P 500",
+    "Country Name": "United States",
+    "Country Code": "US"
+  },
+  {
+    "Global Indices Name": "Nasdaq",
+    "Country Name": "United States",
+    "Country Code": "US"
+  },
+  {
+    "Global Indices Name": "Small Cap 2000",
+    "Country Name": "United States",
+    "Country Code": "US"
+  },
+  {
+    "Global Indices Name": "S&P 500 VIX",
+    "Country Name": "United States",
+    "Country Code": "US"
+  },
+  {
+    "Global Indices Name": "S&P/TSX",
+    "Country Name": "Canada",
+    "Country Code": "CA"
+  },
+  {
+    "Global Indices Name": "Bovespa",
+    "Country Name": "Brazil",
+    "Country Code": "BR"
+  },
+  {
+    "Global Indices Name": "S&P/BMV IPC",
+    "Country Name": "Mexico",
+    "Country Code": "MX"
+  },
+  {
+    "Global Indices Name": "DAX",
+    "Country Name": "Germany",
+    "Country Code": "GE"
+  },
+  {
+    "Global Indices Name": "FTSE 100",
+    "Country Name": "United Kingdom",
+    "Country Code": "GB"
+  },
+  {
+    "Global Indices Name": "CAC 40",
+    "Country Name": "France",
+    "Country Code": "FR"
+  },
+  {
+    "Global Indices Name": "Euro Stoxx 50",
+    "Country Name": "Euro Zone",
+    "Country Code": "EU"
+  },
+  {
+    "Global Indices Name": "AEX",
+    "Country Name": "Netherlands",
+    "Country Code": "NL"
+  },
+  {
+    "Global Indices Name": "IBEX 35",
+    "Country Name": "Spain",
+    "Country Code": "ES"
+  },
+  {
+    "Global Indices Name": "FTSE MIB",
+    "Country Name": "Italy",
+    "Country Code": "IT"
+  },
+  {
+    "Global Indices Name": "SMI",
+    "Country Name": "Switzerland",
+    "Country Code": "CH"
+  },
+  {
+    "Global Indices Name": "PSI 20",
+    "Country Name": "Portugal",
+    "Country Code": "PT"
+  },
+  {
+    "Global Indices Name": "BEL 20",
+    "Country Name": "Belgium",
+    "Country Code": "BE"
+  },
+  {
+    "Global Indices Name": "ATX",
+    "Country Name": "Austria",
+    "Country Code": "AT"
+  },
+  {
+    "Global Indices Name": "OMXS30",
+    "Country Name": "Sweden",
+    "Country Code": "SE"
+  },
+  {
+    "Global Indices Name": "OMXC25",
+    "Country Name": "Denmark",
+    "Country Code": "DK"
+  },
+  {
+    "Global Indices Name": "MOEX",
+    "Country Name": "Russia",
+    "Country Code": "RU"
+  },
+  {
+    "Global Indices Name": "RTSI",
+    "Country Name": "Russia",
+    "Country Code": "RU"
+  },
+  {
+    "Global Indices Name": "WIG20",
+    "Country Name": "Poland",
+    "Country Code": "PL"
+  },
+  {
+    "Global Indices Name": "Budapest SE",
+    "Country Name": "Hungary",
+    "Country Code": "HU"
+  },
+  {
+    "Global Indices Name": "BIST 100",
+    "Country Name": "Turkey",
+    "Country Code": "TR"
+  },
+  {
+    "Global Indices Name": "TA 35",
+    "Country Name": "Israel",
+    "Country Code": "IL"
+  },
+  {
+    "Global Indices Name": "Tadawul All Share",
+    "Country Name": "Saudi Arabia",
+    "Country Code": "SA"
+  },
+  {
+    "Global Indices Name": "Nikkei 225",
+    "Country Name": "Japan",
+    "Country Code": "JP"
+  },
+  {
+    "Global Indices Name": "S&P/ASX 200",
+    "Country Name": "Australia",
+    "Country Code": "AU"
+  },
+  {
+    "Global Indices Name": "DJ New Zealand",
+    "Country Name": "New Zealand",
+    "Country Code": "NZ"
+  },
+  {
+    "Global Indices Name": "Shanghai",
+    "Country Name": "China",
+    "Country Code": "CN"
+  },
+  {
+    "Global Indices Name": "SZSE Component",
+    "Country Name": "China",
+    "Country Code": "CN"
+  },
+  {
+    "Global Indices Name": "China A50",
+    "Country Name": "China",
+    "Country Code": "CN"
+  },
+  {
+    "Global Indices Name": "DJ Shanghai",
+    "Country Name": "China",
+    "Country Code": "CN"
+  },
+  {
+    "Global Indices Name": "Hang Seng",
+    "Country Name": "Hong Kong",
+    "Country Code": "HK"
+  },
+  {
+    "Global Indices Name": "Taiwan Weighted",
+    "Country Name": "Taiwan",
+    "Country Code": "TW"
+  },
+  {
+    "Global Indices Name": "SET",
+    "Country Name": "Thailand",
+    "Country Code": "TH"
+  },
+  {
+    "Global Indices Name": "KOSPI",
+    "Country Name": "South Korea",
+    "Country Code": "KR"
+  },
+  {
+    "Global Indices Name": "IDX Composite",
+    "Country Name": "Indonesia",
+    "Country Code": "ID"
+  },
+  {
+    "Global Indices Name": "Nifty 50",
+    "Country Name": "India",
+    "Country Code": "IN"
+  },
+  {
+    "Global Indices Name": "BSE Sensex",
+    "Country Name": "India",
+    "Country Code": "IN"
+  },
+  {
+    "Global Indices Name": "PSEi Composite",
+    "Country Name": "Philippines",
+    "Country Code": "PH"
+  },
+  {
+    "Global Indices Name": "Karachi 100",
+    "Country Name": "Pakistan",
+    "Country Code": "PK"
+  },
+  {
+    "Global Indices Name": "HNX 30",
+    "Country Name": "Vietnam",
+    "Country Code": "VN"
+  }
+ ]

@@ -1,0 +1,10 @@
+linter:
+  rules:
+    - camel_case_types
+    - empty_constructor_bodies
+    - parameter_assignments
+
+analyzer:
+  errors:
+    missing_required_param: error
+    empty_statements: error

@@ -1,0 +1,102 @@
+[
+  {
+    "FULL_NAME": "bitcoin",
+    "SYMBOL": "btc",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "ethereum",
+    "SYMBOL": "eth",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "tether",
+    "SYMBOL": "usdt",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "cardano",
+    "SYMBOL": "ada",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "binance coin",
+    "SYMBOL": "bnb",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "polkadot",
+    "SYMBOL": "dot1",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "ripple",
+    "SYMBOL": "xrp",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "litecoin",
+    "SYMBOL": "ltc",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "chainlink",
+    "SYMBOL": "link",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "bitcoin cash",
+    "SYMBOL": "bch",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "stellar",
+    "SYMBOL": "xlm",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "usd coin",
+    "SYMBOL": "usdc",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "dogecoin",
+    "SYMBOL": "doge",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "theta",
+    "SYMBOL": "theta",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "cosmos",
+    "SYMBOL": "atom1",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "iota",
+    "SYMBOL": "iota",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "monero",
+    "SYMBOL": "xmr",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "tron",
+    "SYMBOL": "trx",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "eos",
+    "SYMBOL": "eos",
+    "TICKER": ""
+  },
+  {
+    "FULL_NAME": "ethereum classic",
+    "SYMBOL": "etcinr",
+    "TICKER": ""
+  }
+]

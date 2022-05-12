@@ -1,0 +1,66 @@
+[
+  {
+    "COMMODITY_NAME": "rmseed",
+    "CATEGORICAL_COMMODITY_NAME": "ncdex mustard seed"
+  },
+  {
+    "COMMODITY_NAME": "jeeraunjha",
+    "CATEGORICAL_COMMODITY_NAME": "ncdex jeera"
+  },
+  {
+    "COMMODITY_NAME": "dhaniya",
+    "CATEGORICAL_COMMODITY_NAME": "ncdex coriander"
+  },
+  {
+    "COMMODITY_NAME": "guar gum",
+    "CATEGORICAL_COMMODITY_NAME": "ncdex guar gum"
+  },
+  {
+    "COMMODITY_NAME": "soyabean",
+    "CATEGORICAL_COMMODITY_NAME": "ncdex soybean"
+  },
+  {
+    "COMMODITY_NAME": "gold",
+    "CATEGORICAL_COMMODITY_NAME": "mcx gold"
+  },
+  {
+    "COMMODITY_NAME": "silver",
+    "CATEGORICAL_COMMODITY_NAME": "mcx silver"
+  },
+  {
+    "COMMODITY_NAME": "crudeoil",
+    "CATEGORICAL_COMMODITY_NAME": "mcx crude oil"
+  },
+  {
+    "COMMODITY_NAME": "natural gas",
+    "CATEGORICAL_COMMODITY_NAME": "mcx natural gas"
+  },
+  {
+    "COMMODITY_NAME": "aluminium",
+    "CATEGORICAL_COMMODITY_NAME": "mcx aluminium"
+  },
+  {
+    "COMMODITY_NAME": "copper",
+    "CATEGORICAL_COMMODITY_NAME": "mcx copper"
+  },
+  {
+    "COMMODITY_NAME": "nickel",
+    "CATEGORICAL_COMMODITY_NAME": "mcx nickel"
+  },
+  {
+    "COMMODITY_NAME": "lead",
+    "CATEGORICAL_COMMODITY_NAME": "mcx lead"
+  },
+  {
+    "COMMODITY_NAME": "zinc",
+    "CATEGORICAL_COMMODITY_NAME": "mcx zinc"
+  },
+  {
+    "COMMODITY_NAME": "cotton",
+    "CATEGORICAL_COMMODITY_NAME": "mcx cotton"
+  },
+  {
+    "COMMODITY_NAME": "menthaoil",
+    "CATEGORICAL_COMMODITY_NAME": "mcx menthaoil"
+  }
+]

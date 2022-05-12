@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Group_4776" data-name="Group 4776" transform="translate(-116 -160)">
+    <circle id="Ellipse_293" data-name="Ellipse 293" cx="64" cy="64" r="64" transform="translate(116 160)" fill="#1c1c1e"/>
+    <g id="email" transform="translate(137.057 188.107)">
+      <g id="icon_62_" transform="translate(7.883 0)">
+        <path id="Path_4513" data-name="Path 4513" d="M78.037,175.054V214.76a3.45,3.45,0,0,1-1.15,2.6l-.1.1a3.5,3.5,0,0,1-2.284.837H11.422a3.489,3.489,0,0,1-2.266-.837.294.294,0,0,1-.1-.1,3.463,3.463,0,0,1-1.168-2.6V175.054a3.376,3.376,0,0,1,.941-2.37,3.274,3.274,0,0,1,.884-.732,3.552,3.552,0,0,1,1.708-.436H74.5a3.7,3.7,0,0,1,2.614,1.15,3.567,3.567,0,0,1,.924,2.389Z" transform="translate(-7.883 -145.777)" fill="#3294ff"/>
+        <path id="Path_4514" data-name="Path 4514" d="M82.436,26.885C82.188,27.192,48.3,54.143,48.3,54.143L14.142,26.915l.015-.014v-.015L46.364.686a3.059,3.059,0,0,1,3.86,0Z" transform="translate(-13.203 0)" fill="#007aff"/>
+        <path id="Path_4515" data-name="Path 4515" d="M116.019,57.415V81.487L89.083,102.942,62.132,81.458V57.415Z" transform="translate(-53.991 -48.799)" fill="#eeefee"/>
+        <path id="Path_4516" data-name="Path 4516" d="M295.249,350.247a.669.669,0,0,1-.1.1L264.8,330.11l2.777-2.237Z" transform="translate(-226.248 -278.67)" fill="#007aff"/>
+        <path id="Path_4517" data-name="Path 4517" d="M46.113,329.928,15.771,350.181a.224.224,0,0,1-.1-.1l27.653-22.4Z" transform="translate(-14.5 -278.503)" fill="#007aff"/>
+        <g id="Group_4519" data-name="Group 4519" transform="translate(14.111 14.934)" opacity="0.18">
+          <path id="Path_4518" data-name="Path 4518" d="M101.912,99.517h41.932v1.819H101.912Z" transform="translate(-101.912 -99.517)" fill="#007aff"/>
+          <path id="Path_4519" data-name="Path 4519" d="M101.912,146.275h41.932v1.819H101.912Z" transform="translate(-101.912 -139.258)" fill="#007aff"/>
+          <path id="Path_4520" data-name="Path 4520" d="M101.912,193.039h41.932v1.819H101.912Z" transform="translate(-101.912 -179.004)" fill="#007aff"/>
+          <path id="Path_4521" data-name="Path 4521" d="M148.841,239.8h27.848v1.819H148.841Z" transform="translate(-141.798 -218.745)" fill="#007aff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

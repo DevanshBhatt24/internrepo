@@ -1,0 +1,209 @@
+{
+  "project_info": {
+    "project_number": "834378631815",
+    "project_id": "bottom-street",
+    "storage_bucket": "bottom-street.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834378631815:android:6e5daba80ac6c6b6c10622",
+        "android_client_info": {
+          "package_name": "com.example.bottomstreet2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834378631815-1m047h891vrl1i88ibsqr5uji6fqdguq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bottomstreet2",
+            "certificate_hash": "a7c1212b7585d7b983a1047a85f6a3d18c948453"
+          }
+        },
+        {
+          "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBJybqebjH5DAwarPbVwtWh2kuHTzGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834378631815:android:9309ccc5c7d98a08c10622",
+        "android_client_info": {
+          "package_name": "com.example.message_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBJybqebjH5DAwarPbVwtWh2kuHTzGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834378631815:android:d4aaf1093df1285cc10622",
+        "android_client_info": {
+          "package_name": "com.paprclip.bottomstreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834378631815-3a1557r95ti0lpflfa3h2l2v6c79nnt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "5207c16a15ac423d6ecd4cb147b3ffe9a2c342fd"
+          }
+        },
+        {
+          "client_id": "834378631815-3lkkbfn4daau9un776j5tksk19uv5ugu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "b30ba0a61df08e0d69289bf524439728eda20c15"
+          }
+        },
+        {
+          "client_id": "834378631815-8mld2f4lsd14dst3lini0c2vdchn6h0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "f886f1838369b106a194c3f5a18b87246c14e411"
+          }
+        },
+        {
+          "client_id": "834378631815-bmbveo2ceo49dnfi1p8nh6qliu6co5hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "d584f1266e93f374955e74f274066e4b3b4f9ffa"
+          }
+        },
+        {
+          "client_id": "834378631815-dgheiod7fq7ga79q1rgtcisidoegop9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "80d7c73e4f723e55919b1ac4f95deb757c085d8d"
+          }
+        },
+        {
+          "client_id": "834378631815-fc8emcjfe8lqq4786e77i46udu31u76t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "0ed977baddf379fbd7a0b7e64fb584acb416a2ec"
+          }
+        },
+        {
+          "client_id": "834378631815-hmrtbipnme221dc6a6iemj6nvpgdpftt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "ac65c37103f194bf35f0ed5c2a150ae14f66cc44"
+          }
+        },
+        {
+          "client_id": "834378631815-lsekug5us86idkr8jbdngntdh8j06274.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "50e2f714bd6f38d7cacbfe73ea710d3df3172b12"
+          }
+        },
+        {
+          "client_id": "834378631815-nj27be4q0tgktv27onvc0cqk6a6gmgt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "320576e9d4680cfa8f46144922d3a503895b2940"
+          }
+        },
+        {
+          "client_id": "834378631815-pp39jo20ff41ja41dvj1rjvh9k2hdrjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "f3abbb26beb5c9fa81181e99d4651d96d680e289"
+          }
+        },
+        {
+          "client_id": "834378631815-qku4vtf3i7as9gjkde87uf9lkjih43ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "770b971580a369f1326fcf7f5ca81abaf4f7d3af"
+          }
+        },
+        {
+          "client_id": "834378631815-rjjqgd8lcr354itnk2voa1j7ph2k12vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "ef37b14e3b569ae67ec5ba13c8a4a3c76e0ffbd8"
+          }
+        },
+        {
+          "client_id": "834378631815-subg44vikruubc3f67k0m4iiiv1t43ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paprclip.bottomstreet",
+            "certificate_hash": "9442fbfac0fabcd961f0a4425db2fbaf746436a4"
+          }
+        },
+        {
+          "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBJybqebjH5DAwarPbVwtWh2kuHTzGeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834378631815-e6rgfde3sbkggjsg3sk9r02d0mvj6ld9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

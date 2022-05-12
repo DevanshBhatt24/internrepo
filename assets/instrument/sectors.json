@@ -1,0 +1,766 @@
+[
+    {
+        "name": "Abrasives",
+        "value": "abrasives"
+    },
+    {
+        "name": "Aerospace & Defence",
+        "value": "aerospace-defence"
+    },
+    {
+        "name": "Agriculture",
+        "value": "agriculture"
+    },
+    {
+        "name": "Air Conditioners",
+        "value": "air-conditioners"
+    },
+    {
+        "name": "Airlines",
+        "value": "airlines"
+    },
+    {
+        "name": "Aluminium & Aluminium Products",
+        "value": "aluminium-aluminium-products"
+    },
+    {
+        "name": "Amusement Parks/Recreation/Club",
+        "value": "amusement-parksrecreationclub"
+    },
+    {
+        "name": "Aquaculture",
+        "value": "aquaculture"
+    },
+    {
+        "name": "Auto Ancillaries",
+        "value": "auto-ancillaries"
+    },
+    {
+        "name": "Auto Ancillaries - Air Conditioning Parts",
+        "value": "auto-ancillaries-air-conditioning-parts"
+    },
+    {
+        "name": "Auto Ancillaries - Auto, Truck & Motorcycle Parts",
+        "value": "auto-ancillaries-auto-truck-motorcycle-parts"
+    },
+    {
+        "name": "Auto Ancillaries - Axle shafts",
+        "value": "auto-ancillaries-axle-shafts"
+    },
+    {
+        "name": "Auto Ancillaries - Bearings",
+        "value": "auto-ancillaries-bearings"
+    },
+    {
+        "name": "Auto Ancillaries - Brakes",
+        "value": "auto-ancillaries-brakes"
+    },
+    {
+        "name": "Auto Ancillaries - Bus Body",
+        "value": "auto-ancillaries-bus-body"
+    },
+    {
+        "name": "Auto Ancillaries - Castings/Forgings",
+        "value": "auto-ancillaries-castingsforgings"
+    },
+    {
+        "name": "Auto Ancillaries - Clutches",
+        "value": "auto-ancillaries-clutches"
+    },
+    {
+        "name": "Auto Ancillaries - Diesel Engines",
+        "value": "auto-ancillaries-diesel-engines"
+    },
+    {
+        "name": "Auto Ancillaries - Engine Parts",
+        "value": "auto-ancillaries-engine-parts"
+    },
+    {
+        "name": "Auto Ancillaries - Gears",
+        "value": "auto-ancillaries-gears"
+    },
+    {
+        "name": "Auto Ancillaries - Head lamps & lights",
+        "value": "auto-ancillaries-head-lamps-lights"
+    },
+    {
+        "name": "Auto Ancillaries - Others",
+        "value": "auto-ancillaries-others"
+    },
+    {
+        "name": "Auto Ancillaries - Pistons",
+        "value": "auto-ancillaries-pistons"
+    },
+    {
+        "name": "Auto Ancillaries - Seating covers & parts",
+        "value": "auto-ancillaries-seating-covers-parts"
+    },
+    {
+        "name": "Auto Ancillaries - Sheet Metals",
+        "value": "auto-ancillaries-sheet-metals"
+    },
+    {
+        "name": "Auto Ancillaries - Shock absorbers",
+        "value": "auto-ancillaries-shock-absorbers"
+    },
+    {
+        "name": "Auto Ancillaries - Spare Parts & Accessories",
+        "value": "auto-ancillaries-spare-parts-accessories"
+    },
+    {
+        "name": "Auto Ancillaries - Springs",
+        "value": "auto-ancillaries-springs"
+    },
+    {
+        "name": "Auto Ancillaries - Tyres & Rubber Products",
+        "value": "auto-ancillaries-tyres-rubber-products"
+    },
+    {
+        "name": "Auto Ancillaries - Wheels",
+        "value": "auto-ancillaries-wheels"
+    },
+    {
+        "name": "Auto Ancillary",
+        "value": "auto-ancillary"
+    },
+    {
+        "name": "Automobile - 2 & 3 Wheelers",
+        "value": "automobile-2-3-wheelers"
+    },
+    {
+        "name": "Automobile - Auto & Truck Manufacturers",
+        "value": "automobile-auto-truck-manufacturers"
+    },
+    {
+        "name": "Automobile - Dealers & Distributors",
+        "value": "automobile-dealers-distributors"
+    },
+    {
+        "name": "Automobile - LCVS/ HVCS",
+        "value": "automobile-lcvs-hvcs"
+    },
+    {
+        "name": "Automobile - Passenger Cars",
+        "value": "automobile-passenger-cars"
+    },
+    {
+        "name": "Automobile - Tractors",
+        "value": "automobile-tractors"
+    },
+    {
+        "name": "Automobile - Trucks/LCVs",
+        "value": "automobile-truckslcvs"
+    },
+    {
+        "name": "Bank - Private",
+        "value": "bank-private"
+    },
+    {
+        "name": "Bank - Public",
+        "value": "bank-public"
+    },
+    {
+        "name": "Batteries",
+        "value": "batteries"
+    },
+    {
+        "name": "Beverages",
+        "value": "beverages"
+    },
+    {
+        "name": "Biotechnology & Medical Research",
+        "value": "biotechnology-medical-research"
+    },
+    {
+        "name": "BPO/ITeS",
+        "value": "bpoites"
+    },
+    {
+        "name": "Breweries & Distilleries",
+        "value": "breweries-distilleries"
+    },
+    {
+        "name": "Cable & D2H",
+        "value": "cable-d2h"
+    },
+    {
+        "name": "Cables",
+        "value": "cables"
+    },
+    {
+        "name": "Carbon Black",
+        "value": "carbon-black"
+    },
+    {
+        "name": "Cement",
+        "value": "cement"
+    },
+    {
+        "name": "Ceramics/Marble/Granite/Sanitaryware",
+        "value": "ceramicsmarblegranitesanitaryware"
+    },
+    {
+        "name": "Chemicals",
+        "value": "chemicals"
+    },
+    {
+        "name": "Cigarettes/Tobacco",
+        "value": "cigarettestobacco"
+    },
+    {
+        "name": "Coal",
+        "value": "coal"
+    },
+    {
+        "name": "Commodity Chemicals",
+        "value": "commodity-chemicals"
+    },
+    {
+        "name": "Compressors / Pumps",
+        "value": "compressors-pumps"
+    },
+    {
+        "name": "Computer Peripherals",
+        "value": "computer-peripherals"
+    },
+    {
+        "name": "Construction - Infrastructure",
+        "value": "construction-infrastructure"
+    },
+    {
+        "name": "Construction - Real Estate",
+        "value": "construction-real-estate"
+    },
+    {
+        "name": "Construction - Residential & Commercial Complexes",
+        "value": "construction-residential-commercial-complexes"
+    },
+    {
+        "name": "Consumer Food",
+        "value": "consumer-food"
+    },
+    {
+        "name": "Containers & Packaging",
+        "value": "containers-packaging"
+    },
+    {
+        "name": "Courier Services",
+        "value": "courier-services"
+    },
+    {
+        "name": "Cycles",
+        "value": "cycles"
+    },
+    {
+        "name": "Defence",
+        "value": "defence"
+    },
+    {
+        "name": "Detergents & Soaps",
+        "value": "detergents-soaps"
+    },
+    {
+        "name": "Diamond  &  Jewellery",
+        "value": "diamond-jewellery"
+    },
+    {
+        "name": "Diversified",
+        "value": "diversified"
+    },
+    {
+        "name": "Diversified Chemicals",
+        "value": "diversified-chemicals"
+    },
+    {
+        "name": "Domestic Appliances",
+        "value": "domestic-appliances"
+    },
+    {
+        "name": "Dyes & Pigments",
+        "value": "dyes-pigments"
+    },
+    {
+        "name": "Educational Institutions",
+        "value": "educational-institutions"
+    },
+    {
+        "name": "Electric Equipment",
+        "value": "electric-equipment"
+    },
+    {
+        "name": "Electric Equipment - Boilers / Turbines",
+        "value": "electric-equipment-boilers-turbines"
+    },
+    {
+        "name": "Electric Equipment - Switchgears",
+        "value": "electric-equipment-switchgears"
+    },
+    {
+        "name": "Electric Equipment - Transformers",
+        "value": "electric-equipment-transformers"
+    },
+    {
+        "name": "Electrodes & Electrical Equipments",
+        "value": "electrodes-electrical-equipments"
+    },
+    {
+        "name": "Electrodes & Welding Equipment",
+        "value": "electrodes-welding-equipment"
+    },
+    {
+        "name": "Electronic Goods",
+        "value": "electronic-goods"
+    },
+    {
+        "name": "Electronics - Components",
+        "value": "electronics-components"
+    },
+    {
+        "name": "Engineering",
+        "value": "engineering"
+    },
+    {
+        "name": "Engineering & Construction",
+        "value": "engineering-construction"
+    },
+    {
+        "name": "Engineering - Construction",
+        "value": "engineering-construction"
+    },
+    {
+        "name": "Engineering - Industrial Equipments",
+        "value": "engineering-industrial-equipments"
+    },
+    {
+        "name": "ETF",
+        "value": "etf"
+    },
+    {
+        "name": "Fasteners",
+        "value": "fasteners"
+    },
+    {
+        "name": "Ferro Manganese",
+        "value": "ferro-manganese"
+    },
+    {
+        "name": "Fertilizers",
+        "value": "fertilizers"
+    },
+    {
+        "name": "Film Production, Distribution & Entertainment",
+        "value": "film-production-distribution-entertainment"
+    },
+    {
+        "name": "Finance - Housing",
+        "value": "finance-housing"
+    },
+    {
+        "name": "Finance - Investment",
+        "value": "finance-investment"
+    },
+    {
+        "name": "Finance - NBFC",
+        "value": "finance-nbfc"
+    },
+    {
+        "name": "Finance - Others",
+        "value": "finance-others"
+    },
+    {
+        "name": "Finance - Stock Broking",
+        "value": "finance-stock-broking"
+    },
+    {
+        "name": "Finance Term Lending",
+        "value": "finance-term-lending"
+    },
+    {
+        "name": "Fish/Poultry & Meat Products",
+        "value": "fishpoultry-meat-products"
+    },
+    {
+        "name": "Food & Drug Retailing",
+        "value": "food-drug-retailing"
+    },
+    {
+        "name": "Food Processing",
+        "value": "food-processing"
+    },
+    {
+        "name": "Footwear",
+        "value": "footwear"
+    },
+    {
+        "name": "Gas Distribution",
+        "value": "gas-distribution"
+    },
+    {
+        "name": "Glass & Glass Products",
+        "value": "glass-glass-products"
+    },
+    {
+        "name": "Gold",
+        "value": "gold"
+    },
+    {
+        "name": "Gold ETF",
+        "value": "gold-etf"
+    },
+    {
+        "name": "Ground Freight & Logistics Services",
+        "value": "ground-freight-logistics-services"
+    },
+    {
+        "name": "Hospital & Healthcare Services",
+        "value": "hospital-healthcare-services"
+    },
+    {
+        "name": "Hotel, Resort & Restaurants",
+        "value": "hotel-resort-restaurants"
+    },
+    {
+        "name": "Household & Personal Products",
+        "value": "household-personal-products"
+    },
+    {
+        "name": "Infrastructure",
+        "value": "infrastructure"
+    },
+    {
+        "name": "Iron & Steel",
+        "value": "iron-steel"
+    },
+    {
+        "name": "IT - Education",
+        "value": "it-education"
+    },
+    {
+        "name": "IT - Networking",
+        "value": "it-networking"
+    },
+    {
+        "name": "IT Services & Consulting",
+        "value": "it-services-consulting"
+    },
+    {
+        "name": "Labs & Life Sciences Services",
+        "value": "labs-life-sciences-services"
+    },
+    {
+        "name": "Laminates/Decoratives",
+        "value": "laminatesdecoratives"
+    },
+    {
+        "name": "Leather",
+        "value": "leather"
+    },
+    {
+        "name": "Leisure Services",
+        "value": "leisure-services"
+    },
+    {
+        "name": "Life & Health Insurance",
+        "value": "life-health-insurance"
+    },
+    {
+        "name": "Logistics",
+        "value": "logistics"
+    },
+    {
+        "name": "LPG",
+        "value": "lpg"
+    },
+    {
+        "name": "Lubricants",
+        "value": "lubricants"
+    },
+    {
+        "name": "Media",
+        "value": "media"
+    },
+    {
+        "name": "Medical Equipment/Supplies/Accessories",
+        "value": "medical-equipmentsuppliesaccessories"
+    },
+    {
+        "name": "Metals & Mining",
+        "value": "metals-mining"
+    },
+    {
+        "name": "Metals - Castings/Forgings",
+        "value": "metals-castingsforgings"
+    },
+    {
+        "name": "Metals - Non Ferrous",
+        "value": "metals-non-ferrous"
+    },
+    {
+        "name": "Misc. Commercial Services",
+        "value": "misc-commercial-services"
+    },
+    {
+        "name": "Miscellaneous",
+        "value": "miscellaneous"
+    },
+    {
+        "name": "Multiline Insurance & Brokers",
+        "value": "multiline-insurance-brokers"
+    },
+    {
+        "name": "Oil Exploration and Production",
+        "value": "oil-exploration-and-production"
+    },
+    {
+        "name": "Online Services",
+        "value": "online-services"
+    },
+    {
+        "name": "other agriculture products",
+        "value": "other-agriculture-products"
+    },
+    {
+        "name": "Other Construction Materials",
+        "value": "other-construction-materials"
+    },
+    {
+        "name": "Others-Industrial Gases & Fuels",
+        "value": "others-industrial-gases-fuels"
+    },
+    {
+        "name": "Others-Manufacturing",
+        "value": "others-manufacturing"
+    },
+    {
+        "name": "Packaging - Films",
+        "value": "packaging-films"
+    },
+    {
+        "name": "Packaging - Packaging Materials",
+        "value": "packaging-packaging-materials"
+    },
+    {
+        "name": "Packaging - Polyfilms",
+        "value": "packaging-polyfilms"
+    },
+    {
+        "name": "Packaging - Sacks and Bags",
+        "value": "packaging-sacks-and-bags"
+    },
+    {
+        "name": "Packaging Materials-Containers & Packaging",
+        "value": "packaging-materials-containers-packaging"
+    },
+    {
+        "name": "Packaging Materials-Plastic Products",
+        "value": "packaging-materials-plastic-products"
+    },
+    {
+        "name": "Paints",
+        "value": "paints"
+    },
+    {
+        "name": "Paper & Forest Products",
+        "value": "paper-forest-products"
+    },
+    {
+        "name": "Paper & Paper Products",
+        "value": "paper-paper-products"
+    },
+    {
+        "name": "Pesticides & Agrochemicals",
+        "value": "pesticides-agrochemicals"
+    },
+    {
+        "name": "Pharmaceuticals & Drugs",
+        "value": "pharmaceuticals-drugs"
+    },
+    {
+        "name": "Photographic Products",
+        "value": "photographic-products"
+    },
+    {
+        "name": "Plastic Products",
+        "value": "plastic-products"
+    },
+    {
+        "name": "Plastic Products - Others",
+        "value": "plastic-products-others"
+    },
+    {
+        "name": "Plastics - Moulded Articles and Furnitures",
+        "value": "plastics-moulded-articles-and-furnitures"
+    },
+    {
+        "name": "Plastics - Pet Bottels, Jars & Containers",
+        "value": "plastics-pet-bottels-jars-containers"
+    },
+    {
+        "name": "Plastics - Self Adhesive Tapes",
+        "value": "plastics-self-adhesive-tapes"
+    },
+    {
+        "name": "Plastics - Thermoplastics",
+        "value": "plastics-thermoplastics"
+    },
+    {
+        "name": "Plastics - Tubes/Pipes/Hoses & Fittings",
+        "value": "plastics-tubespipeshoses-fittings"
+    },
+    {
+        "name": "Ports",
+        "value": "ports"
+    },
+    {
+        "name": "Power Generation/Distribution",
+        "value": "power-generationdistribution"
+    },
+    {
+        "name": "Printing & Publishing",
+        "value": "printing-publishing"
+    },
+    {
+        "name": "Printing & Stationery",
+        "value": "printing-stationery"
+    },
+    {
+        "name": "Printing And Publishing",
+        "value": "printing-and-publishing"
+    },
+    {
+        "name": "Railways Wagons",
+        "value": "railways-wagons"
+    },
+    {
+        "name": "Ratings",
+        "value": "ratings"
+    },
+    {
+        "name": "Real Estate Operations",
+        "value": "real-estate-operations"
+    },
+    {
+        "name": "Real Estate Rental, Development & Operations",
+        "value": "real-estate-rental-development-operations"
+    },
+    {
+        "name": "Refineries",
+        "value": "refineries"
+    },
+    {
+        "name": "Refractories",
+        "value": "refractories"
+    },
+    {
+        "name": "Reinsurance",
+        "value": "reinsurance"
+    },
+    {
+        "name": "Renewables",
+        "value": "renewables"
+    },
+    {
+        "name": "Retailing",
+        "value": "retailing"
+    },
+    {
+        "name": "Rubber  Products",
+        "value": "rubber-products"
+    },
+    {
+        "name": "Ship Building",
+        "value": "ship-building"
+    },
+    {
+        "name": "Shipping",
+        "value": "shipping"
+    },
+    {
+        "name": "Software",
+        "value": "software"
+    },
+    {
+        "name": "Solvent  Extraction",
+        "value": "solvent-extraction"
+    },
+    {
+        "name": "Speciality Chemicals",
+        "value": "speciality-chemicals"
+    },
+    {
+        "name": "Speciality Retailers",
+        "value": "speciality-retailers"
+    },
+    {
+        "name": "Specialty Mining & Metals",
+        "value": "specialty-mining-metals"
+    },
+    {
+        "name": "Sugar",
+        "value": "sugar"
+    },
+    {
+        "name": "Tea/Coffee",
+        "value": "teacoffee"
+    },
+    {
+        "name": "Telecommunication - Equipment",
+        "value": "telecommunication-equipment"
+    },
+    {
+        "name": "Telecommunication - Service Provider",
+        "value": "telecommunication-service-provider"
+    },
+    {
+        "name": "Telecommunications Services",
+        "value": "telecommunications-services"
+    },
+    {
+        "name": "Textile - Machinery",
+        "value": "textile-machinery"
+    },
+    {
+        "name": "Textile - Spinning",
+        "value": "textile-spinning"
+    },
+    {
+        "name": "Textiles",
+        "value": "textiles"
+    },
+    {
+        "name": "Textiles & Apparel",
+        "value": "textiles-apparel"
+    },
+    {
+        "name": "Trading",
+        "value": "trading"
+    },
+    {
+        "name": "Transmission Towers / Equipments",
+        "value": "transmission-towers-equipments"
+    },
+    {
+        "name": "Transport Infrastructure",
+        "value": "transport-infrastructure"
+    },
+    {
+        "name": "Travel Services",
+        "value": "travel-services"
+    },
+    {
+        "name": "TV Broadcasting & Software Production",
+        "value": "tv-broadcasting-software-production"
+    },
+    {
+        "name": "Vegetable Oils & Products",
+        "value": "vegetable-oils-products"
+    },
+    {
+        "name": "Watches & Accessories",
+        "value": "watches-accessories"
+    },
+    {
+        "name": "Wood & Wood Products",
+        "value": "wood-wood-products"
+    }
+]

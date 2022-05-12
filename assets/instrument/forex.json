@@ -1,0 +1,332 @@
+[
+  {
+    "CURRENCY_NAME": "usd-eur"
+  },
+  {
+    "CURRENCY_NAME": "usd-gbp"
+  },
+  {
+    "CURRENCY_NAME": "usd-jpy"
+  },
+  {
+    "CURRENCY_NAME": "usd-aud"
+  },
+  {
+    "CURRENCY_NAME": "usd-cad"
+  },
+  {
+    "CURRENCY_NAME": "usd-chf"
+  },
+  {
+    "CURRENCY_NAME": "usd-cny"
+  },
+  {
+    "CURRENCY_NAME": "usd-sek"
+  },
+  {
+    "CURRENCY_NAME": "usd-nzd"
+  },
+  {
+    "CURRENCY_NAME": "usd-inr"
+  },
+  {
+    "CURRENCY_NAME": "eur-usd"
+  },
+  {
+    "CURRENCY_NAME": "eur-gbp"
+  },
+  {
+    "CURRENCY_NAME": "eur-jpy"
+  },
+  {
+    "CURRENCY_NAME": "eur-aud"
+  },
+  {
+    "CURRENCY_NAME": "eur-cad"
+  },
+  {
+    "CURRENCY_NAME": "eur-chf"
+  },
+  {
+    "CURRENCY_NAME": "eur-cny"
+  },
+  {
+    "CURRENCY_NAME": "eur-sek"
+  },
+  {
+    "CURRENCY_NAME": "eur-nzd"
+  },
+  {
+    "CURRENCY_NAME": "eur-inr"
+  },
+  {
+    "CURRENCY_NAME": "gbp-eur"
+  },
+  {
+    "CURRENCY_NAME": "gbp-usd"
+  },
+  {
+    "CURRENCY_NAME": "gbp-jpy"
+  },
+  {
+    "CURRENCY_NAME": "gbp-aud"
+  },
+  {
+    "CURRENCY_NAME": "gbp-cad"
+  },
+  {
+    "CURRENCY_NAME": "gbp-chf"
+  },
+  {
+    "CURRENCY_NAME": "gbp-cny"
+  },
+  {
+    "CURRENCY_NAME": "gbp-sek"
+  },
+  {
+    "CURRENCY_NAME": "gbp-nzd"
+  },
+  {
+    "CURRENCY_NAME": "gbp-inr"
+  },
+  {
+    "CURRENCY_NAME": "jpy-eur"
+  },
+  {
+    "CURRENCY_NAME": "jpy-gbp"
+  },
+  {
+    "CURRENCY_NAME": "jpy-usd"
+  },
+  {
+    "CURRENCY_NAME": "jpy-aud"
+  },
+  {
+    "CURRENCY_NAME": "jpy-cad"
+  },
+  {
+    "CURRENCY_NAME": "jpy-chf"
+  },
+  {
+    "CURRENCY_NAME": "jpy-cny"
+  },
+  {
+    "CURRENCY_NAME": "jpy-sek"
+  },
+  {
+    "CURRENCY_NAME": "jpy-nzd"
+  },
+  {
+    "CURRENCY_NAME": "jpy-inr"
+  },
+  {
+    "CURRENCY_NAME": "aud-eur"
+  },
+  {
+    "CURRENCY_NAME": "aud-gbp"
+  },
+  {
+    "CURRENCY_NAME": "aud-jpy"
+  },
+  {
+    "CURRENCY_NAME": "aud-usd"
+  },
+  {
+    "CURRENCY_NAME": "aud-cad"
+  },
+  {
+    "CURRENCY_NAME": "aud-chf"
+  },
+  {
+    "CURRENCY_NAME": "aud-cny"
+  },
+  {
+    "CURRENCY_NAME": "aud-sek"
+  },
+  {
+    "CURRENCY_NAME": "aud-nzd"
+  },
+  {
+    "CURRENCY_NAME": "aud-inr"
+  },
+  {
+    "CURRENCY_NAME": "cad-eur"
+  },
+  {
+    "CURRENCY_NAME": "cad-gbp"
+  },
+  {
+    "CURRENCY_NAME": "cad-jpy"
+  },
+  {
+    "CURRENCY_NAME": "cad-aud"
+  },
+  {
+    "CURRENCY_NAME": "cad-usd"
+  },
+  {
+    "CURRENCY_NAME": "cad-chf"
+  },
+  {
+    "CURRENCY_NAME": "cad-cny"
+  },
+  {
+    "CURRENCY_NAME": "cad-sek"
+  },
+  {
+    "CURRENCY_NAME": "cad-nzd"
+  },
+  {
+    "CURRENCY_NAME": "cad-inr"
+  },
+  {
+    "CURRENCY_NAME": "chf-eur"
+  },
+  {
+    "CURRENCY_NAME": "chf-gbp"
+  },
+  {
+    "CURRENCY_NAME": "chf-jpy"
+  },
+  {
+    "CURRENCY_NAME": "chf-aud"
+  },
+  {
+    "CURRENCY_NAME": "chf-cad"
+  },
+  {
+    "CURRENCY_NAME": "chf-usd"
+  },
+  {
+    "CURRENCY_NAME": "chf-cny"
+  },
+  {
+    "CURRENCY_NAME": "chf-sek"
+  },
+  {
+    "CURRENCY_NAME": "chf-nzd"
+  },
+  {
+    "CURRENCY_NAME": "chf-inr"
+  },
+  {
+    "CURRENCY_NAME": "cny-eur"
+  },
+  {
+    "CURRENCY_NAME": "cny-gbp"
+  },
+  {
+    "CURRENCY_NAME": "cny-jpy"
+  },
+  {
+    "CURRENCY_NAME": "cny-aud"
+  },
+  {
+    "CURRENCY_NAME": "cny-cad"
+  },
+  {
+    "CURRENCY_NAME": "cny-chf"
+  },
+  {
+    "CURRENCY_NAME": "cny-usd"
+  },
+  {
+    "CURRENCY_NAME": "cny-sek"
+  },
+  {
+    "CURRENCY_NAME": "cny-nzd"
+  },
+  {
+    "CURRENCY_NAME": "cny-inr"
+  },
+  {
+    "CURRENCY_NAME": "sek-eur"
+  },
+  {
+    "CURRENCY_NAME": "sek-gbp"
+  },
+  {
+    "CURRENCY_NAME": "sek-jpy"
+  },
+  {
+    "CURRENCY_NAME": "sek-aud"
+  },
+  {
+    "CURRENCY_NAME": "sek-cad"
+  },
+  {
+    "CURRENCY_NAME": "sek-chf"
+  },
+  {
+    "CURRENCY_NAME": "sek-cny"
+  },
+  {
+    "CURRENCY_NAME": "sek-usd"
+  },
+  {
+    "CURRENCY_NAME": "sek-nzd"
+  },
+  {
+    "CURRENCY_NAME": "sek-inr"
+  },
+  {
+    "CURRENCY_NAME": "nzd-eur"
+  },
+  {
+    "CURRENCY_NAME": "nzd-gbp"
+  },
+  {
+    "CURRENCY_NAME": "nzd-jpy"
+  },
+  {
+    "CURRENCY_NAME": "nzd-aud"
+  },
+  {
+    "CURRENCY_NAME": "nzd-cad"
+  },
+  {
+    "CURRENCY_NAME": "nzd-chf"
+  },
+  {
+    "CURRENCY_NAME": "nzd-cny"
+  },
+  {
+    "CURRENCY_NAME": "nzd-sek"
+  },
+  {
+    "CURRENCY_NAME": "nzd-usd"
+  },
+  {
+    "CURRENCY_NAME": "nzd-inr"
+  },
+  {
+    "CURRENCY_NAME": "inr-eur"
+  },
+  {
+    "CURRENCY_NAME": "inr-gbp"
+  },
+  {
+    "CURRENCY_NAME": "inr-jpy"
+  },
+  {
+    "CURRENCY_NAME": "inr-aud"
+  },
+  {
+    "CURRENCY_NAME": "inr-cad"
+  },
+  {
+    "CURRENCY_NAME": "inr-chf"
+  },
+  {
+    "CURRENCY_NAME": "inr-cny"
+  },
+  {
+    "CURRENCY_NAME": "inr-sek"
+  },
+  {
+    "CURRENCY_NAME": "inr-nzd"
+  },
+  {
+    "CURRENCY_NAME": "inr-usd"
+  }
+]
